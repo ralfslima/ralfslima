@@ -1,4 +1,14 @@
-### Hi there 👋
+### Olá pessoal 👋
+
+Me chamo Ralf, sou professor e desenvolvedor de sistemas.
+
+Este GitHub é exclusivo para as aulas que leciono nas instituições:
+
+* Furb - Algoritmos e Estruturas de Dados.
+* FABAD - Administração de banco de dados NoSQL.
+* Proway - Java, C#, PHP, Angular, React, Vue, Node.js, MySQL, Oracle, MongoDB.
+* Apex - HTML, CSS, Design Responsivo, TypeScript, Node.js, React e Angular.
+* Íma Tech - HTML, CSS, JavaScript, TypeScript, Angular, DART e Flutter.
 
 <!--
 **ralfslima/ralfslima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
