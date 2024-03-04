@@ -15,13 +15,13 @@ Este GitHub é exclusivo para as aulas que leciono nas instituições:
 ### Meus contatos:
 
 
-**E-mail:** contato@ralflima.com
+* **E-mail:** contato@ralflima.com
 
-**YouTube:** Ralf Lima
+* **YouTube:** Ralf Lima
 
-**Instagram:** ralflima_dev
+* **Instagram:** ralflima_dev
 
-**LinkedIn:** Ralf Lima
+* **LinkedIn:** Ralf Lima
 
 
 
