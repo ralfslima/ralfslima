@@ -7,8 +7,9 @@ Este GitHub é exclusivo para as aulas que leciono nas instituições:
 * FURB - Algoritmos e Estruturas de Dados.
 * FABAD - Administração de banco de dados NoSQL.
 * Proway - Java, C#, PHP, Angular, React, Vue, Node.js, MySQL, Oracle, MongoDB.
-* Apex - HTML, CSS, Design Responsivo, TypeScript, Node.js, React e Angular.
+* Apex - HTML, CSS, Design Responsivo, TypeScript, Node.js, React, Angular, Java, Python, C#, MySQL e SQL Server.
 * Íma Tech - HTML, CSS, JavaScript, TypeScript, Angular, DART e Flutter.
+* Yto Nihon - Figma e Python.
 
 ---
 
